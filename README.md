@@ -2,7 +2,7 @@
 This is a pre-built button for flutter with an awesome look.
 
 # Example
-![Alt text](https://raw.githubusercontent.com/OrnomaS/AwesomeButton/master/example.png)![Alt text](https://raw.githubusercontent.com/OrnomaS/AwesomeButton/master/example1.png)![Alt text](https://raw.githubusercontent.com/OrnomaS/AwesomeButton/master/example2.png)
+![Alt text](https://raw.githubusercontent.com/OrnomaS/AwesomeButton/master/example.png)![Alt text](https://raw.githubusercontent.com/OrnomaS/AwesomeButton/master/example2.png)
 ```dart
 AwesomeButton(
   blurRadius: 10.0,
@@ -18,6 +18,24 @@ AwesomeButton(
       color: Colors.white,
       fontSize: 20.0,
     ),
+  ),
+),
+```
+
+![Alt text](https://raw.githubusercontent.com/OrnomaS/AwesomeButton/master/example1.png)
+```dart
+AwesomeButton(
+  blurRadius: 10.0,
+  splashColor: Color.fromRGBO(255, 255, 255, .4),
+  borderRadius: BorderRadius.circular(50.0),
+  height: 100.0,
+  width: 100.0,
+  onTap: () => print("tapped"),
+  color: Colors.greenAccent,
+  child: Icon(
+    Icons.account_circle,
+    color: Colors.white,
+    size: 50.0,
   ),
 ),
 ```
