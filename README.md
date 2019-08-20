@@ -9,7 +9,7 @@ Import the AwesomeButton.dart using this line below.
 ```dart 
 import 'package:your_package_name/AwesomeButton.dar';
 ``` 
-Add the AwesomeButton widget to your widget tree and provide you parameter to it, like examples below.
+Add the AwesomeButton widget to your widget tree and provide your parameter to it, like examples below.
 
 # Example
 ![Alt text](https://raw.githubusercontent.com/OrnomaS/AwesomeButton/master/example.png)
