@@ -2,7 +2,7 @@
 This is a pre-built button for flutter with an awesome look.
 
 # Example
-![Alt text](https://raw.githubusercontent.com/OrnomaS/AwesomeButton/master/example.png)(https://raw.githubusercontent.com/OrnomaS/AwesomeButton/master/example1.png)(https://raw.githubusercontent.com/OrnomaS/AwesomeButton/master/example2.png)
+![Alt text](https://raw.githubusercontent.com/OrnomaS/AwesomeButton/master/example.png)![Alt text](https://raw.githubusercontent.com/OrnomaS/AwesomeButton/master/example1.png)![Alt text](https://raw.githubusercontent.com/OrnomaS/AwesomeButton/master/example2.png)
 ```dart
 AwesomeButton(
   blurRadius: 10.0,
