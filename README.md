@@ -12,7 +12,7 @@ import 'package:your_package_name/AwesomeButton.dar';
 Add the AwesomeButton widget to your widget tree and provide your parameter to it, like examples below.
 
 # Example
-![Alt text](https://raw.githubusercontent.com/OrnomaS/AwesomeButton/master/example.png)
+![Alt text](https://raw.githubusercontent.com/OrnomaS/AwesomeButton/master/images/example.png)
 ```dart
 AwesomeButton(
   blurRadius: 10.0,
@@ -32,7 +32,7 @@ AwesomeButton(
 ),
 ```
 
-![Alt text](https://raw.githubusercontent.com/OrnomaS/AwesomeButton/master/example1.png)
+![Alt text](https://raw.githubusercontent.com/OrnomaS/AwesomeButton/master/images/example1.png)
 ```dart
 AwesomeButton(
   blurRadius: 10.0,
@@ -50,7 +50,7 @@ AwesomeButton(
 ),
 ```
 
-![Alt text](https://raw.githubusercontent.com/OrnomaS/AwesomeButton/master/example2.png)
+![Alt text](https://raw.githubusercontent.com/OrnomaS/AwesomeButton/master/images/example2.png)
 ```dart
 AwesomeButton(
   blurRadius: 10.0,
