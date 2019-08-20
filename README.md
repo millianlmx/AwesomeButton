@@ -7,7 +7,7 @@ Download the AwesomeButton.dart file and place it into your /lib folder.
 # Usage
 Import the AwesomeButton.dart using this line below.
 ```dart 
-import 'package:your_package_name/AwesomeButton.dar';
+import 'package:your_package_name/AwesomeButton.dart';
 ``` 
 Add the AwesomeButton widget to your widget tree and provide your parameter to it, like examples below.
 
