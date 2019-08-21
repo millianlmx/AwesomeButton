@@ -2,12 +2,15 @@
 This is a pre-built button for flutter with an awesome look.
 
 # Installation
-Download the AwesomeButton.dart file and place it into your /lib folder.
+Add the awesome_button to your dependencies in your pubspec.yaml.
+```dart
+awesome_button: 1.0.0
+``` 
 
 # Usage
 Import the AwesomeButton.dart using this line below.
 ```dart 
-import 'package:your_package_name/AwesomeButton.dart';
+import 'package:awesome_button/awesome_button.dart';
 ``` 
 Add the AwesomeButton widget to your widget tree and provide your parameter to it, like examples below.
 
