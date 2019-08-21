@@ -4,7 +4,7 @@ This is a pre-built button for flutter with an awesome look.
 # Installation
 Add the awesome_button to your dependencies in your pubspec.yaml.
 ```dart
-awesome_button: 1.0.0
+awesome_button: 1.0.1
 ``` 
 
 # Usage
